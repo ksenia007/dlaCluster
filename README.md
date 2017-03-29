@@ -48,24 +48,19 @@ For Mac users: install ffmpeg through homebrew
 This will install it automatically
 
 ## Many cluster formations
-<div class="floated_img">
-    <img src="/sampleImages/movie.gif" alt="Some image" width=250>
-</div>
-<div class="floated_img">
-    <img src="/sampleImages/movie.gif" alt="Another image" width=250>
-</div>
-<div class="floated_img">
-    <img src="/sampleImages/movie.gif" alt="Some image" width=250>
-</div>
-<div class="floated_img">
-    <img src="/sampleImages/movie.gif" alt="Another image" width=250>
-</div>
-<div class="floated_img">
-    <img src="/sampleImages/movie.gif" alt="Some image" width=250>
-</div>
-<div class="floated_img">
-    <img src="/sampleImages/movie.gif" alt="Another image" width=250>
-</div>
+
+<center><table>
+<tr><td><img src="/sampleImages/movie1.gif" width=250></td>
+<td><img src="/sampleImages/movie2.gif" width=250></td>
+<td><img src="/sampleImages/movie3.gif" width=250></td>
+<br>
+<tr><td><img src="/sampleImages/movie4.gif" width=250></td>
+<td><img src="/sampleImages/movie5.gif" width=250></td>
+<td><img src="/sampleImages/movie6.gif" width=250></td>
+</table></center>
+
+It is insteresting to note, that all the gifs run out of order with repsect to each other. This happens because every cluster needs variable time to run. 
+
 
 
 
