@@ -47,5 +47,25 @@ For Mac users: install ffmpeg through homebrew
 *brew install ffmpeg*
 This will install it automatically
 
+## Many cluster formations
+<div class="floated_img">
+    <img src="/sampleImages/movie.gif" alt="Some image" width=250>
+</div>
+<div class="floated_img">
+    <img src="/sampleImages/movie.gif" alt="Another image" width=250>
+</div>
+<div class="floated_img">
+    <img src="/sampleImages/movie.gif" alt="Some image" width=250>
+</div>
+<div class="floated_img">
+    <img src="/sampleImages/movie.gif" alt="Another image" width=250>
+</div>
+<div class="floated_img">
+    <img src="/sampleImages/movie.gif" alt="Some image" width=250>
+</div>
+<div class="floated_img">
+    <img src="/sampleImages/movie.gif" alt="Another image" width=250>
+</div>
+
 
 
