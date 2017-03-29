@@ -19,7 +19,9 @@ As we can see, the resulting cluster has a lot of holes and exhibits a branching
 
  To quantify this observation, we can find the fractal dimensionality of the cluster. This parameters arises from the scaling rules: consider the mass of the objects. We can see that for a line mass is proportional to **r**, and for disk to **r<sup>2</sup>**. Therefore, consider expression 
  
-<p align="center"> log(m)=a log(r)+c </p>
+<p align="center"> 
+  log(m)=a log(r)+c 
+</p>
 
 Then, a is the power of r. For fractals, we would expect a value between 1 and 2. 
 
@@ -27,9 +29,11 @@ Indeed, running the DLA cluster for various radius, and finsing a fit through th
 <p align="center">
   <img src="/images/fractalDim.png" width="500">
 </p>
+
+
 This result can be achieved by running *fractalDimensionality.py*
 
-
+## Note
 *Part of this code was used to complete the group assignment for Physics 566 (Computational Physics) class at Duke University, taught by Professor Steffen Bass. Team members: Ksenia Sokolova, Tahoe Schrader and Xinmeng Tong. The Github repository for the full assignment can be found [here](https://github.com/tahoeschrader/PHYS566_group4_project-1a_walk-diffusion-cluster)*
 
 ## Installing required packages
