@@ -18,8 +18,10 @@ To get this movie, you need to run file *runner.py*. To get different radius - v
 As we can see, the resulting cluster has a lot of holes and exhibits a branching behavior. This is understandable: if we add random walkers at the distance of the center and let them wander, there is a greater chance they will be added to the branches of the cluster as it grows.
 
  To quantify this observation, we can find the fractal dimensionality of the cluster. This parameters arises from the scaling rules: consider the mass of the objects. We can see that for a line mass is proportional to **r**, and for disk to **r<sup>2</sup>**. Therefore, consider expression 
+ 
 <p align="center"> log(m)=a log(r)+c </p>
-Then, a is the power of **r**. For fractals, we would expect a value between 1 and 2. 
+
+Then, a is the power of r. For fractals, we would expect a value between 1 and 2. 
 
 Indeed, running the DLA cluster for various radius, and finsing a fit through the points, we see that it is about 1.7
 <p align="center">
