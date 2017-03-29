@@ -2,7 +2,7 @@
 Python code for DLA cluster simulation and calculating fractal dimensionality of the cluster. 
 
 <p align="center">
-  <img src="/images/movie.gif" width="500">
+  <img src="/sampleImages/movie.gif" width="500">
 </p>
 
 ## Cluster formation 
@@ -11,7 +11,7 @@ The movie (.gif) is a visual output for the DLA Cluster formation. In the beginn
 To get this movie, you need to run file *runner.py*. To get different radius - vary the first parameter passed to the DLAcluster function. For example, this is a .gif file for a larger radius.
 
 <p align="center">
-  <img src="/images/movie_small.gif" width="500">
+  <img src="/sampleImages/movie_small.gif" width="500">
 </p>
 
 
@@ -27,7 +27,7 @@ Then, a is the power of r. For fractals, we would expect a value between 1 and 2
 
 Indeed, running the DLA cluster for various radius, and finsing a fit through the points, we see that it is about 1.7
 <p align="center">
-  <img src="/images/fractalDim.png" width="500">
+  <img src="/sampleImages/fractalDim.png" width="500">
 </p>
 
 
