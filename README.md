@@ -59,7 +59,7 @@ This will install it automatically
 <td><img src="/sampleImages/movie6.gif" width=250></td>
 </table></center>
 
-It is insteresting to note, that all the gifs run out of order with repsect to each other. This happens because every cluster needs variable time to run. 
+It is insteresting to note, that all the gifs run out of order with respect to each other. This happens because every cluster needs variable time to run. 
 
 
 
